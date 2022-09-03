@@ -1,7 +1,7 @@
 {
-  "name": "Haruka-Md",
+  "name": "кιηα вσт",
   "version": "0.0.6",
-  "description": "whatsapp bot with multi device.",
+  "description": "Whatsapp Bot Multi Device.",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
